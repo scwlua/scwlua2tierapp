@@ -15,8 +15,8 @@
 </p>
 
 <!-- need to change to the path.txt -->
-<a href="https://www.freecodecamp.org/">
-  <button>freeCodeCamp</button>
+<a href="SamplePage.php">
+  <button>SamplePageSimple</button>
 </a> 
 
 <?php
@@ -24,7 +24,7 @@
    $path_img="https://".$firstline."/SamplePage.php";
    echo "<br>";
    echo "<a href='{$path_img}'>
-    <button>SamplePage</button>
+    <button>SamplePageComplex</button>
   </a>";
 ?>
 
