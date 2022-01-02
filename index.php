@@ -8,10 +8,8 @@
 <body>
 
 <p>
- Thanks for attending this demo!
+Welcome to the technical demo!
 </p>
-
-<br>
 
 <p>
  Click on the button to visit the Record Entry Application.
@@ -21,5 +19,9 @@
   <button>Record Entry Application</button>
 </a>
 
+<p>
+ Thanks for attending this demo!
+</p>
+  
 </body>
 </html>
