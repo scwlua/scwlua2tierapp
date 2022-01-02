@@ -7,6 +7,8 @@
 
 <body>
 
+<img src='https://images.ctfassets.net/hqu2g0tau160/6gtdYaantuwMwsYQkQEkM0/e7ba4b09c4c44cbb65ac5ae0d0aa49e8/HashiCorp_PrimaryLogo_Black.png_h_250' width=831 height=250>
+  
 <p>
 Welcome to the technical demo!
 </p>
