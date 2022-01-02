@@ -1,36 +1,26 @@
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <title>Spoon-Knife</title>
+  <title>none</title>
   <LINK href="styles.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
 
-<img src="forkit.gif" id="octocat" alt="" />
-
-<!-- Feel free to change this text here -->
 <p>
- Welcome to the page, Plz Navigate to /SamplePage.php for entering your details
+ Thanks for attending this demo!
+</p>
+
+<br>
+
+<p>
+ Click on the button to visit the Record Entry Application.
 </p>
 
 <!-- need to change to the path.txt -->
 <a href="SamplePage.php">
-  <button>SamplePageSimple</button>
-</a> 
-
-<?php
-   $firstline=`head -n1 path.txt`;          
-   $path_img="https://".$firstline."/SamplePage.php";
-   echo "<br>";
-   echo "<a href='{$path_img}'>
-    <button>SamplePageComplex</button>
-  </a>";
-?>
-
-<p>
- Thank You!!!!! 
-</p>
+  <button>Record Entry Application</button>
+</a>
 
 </body>
 </html>
